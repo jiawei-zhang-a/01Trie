@@ -13,4 +13,4 @@ No interval operation
 convert any integer to 01 string and insert the 01 string into a trie dictionary
 
 
-#First posted in 2018 on Zhihu[link](https://www.zhihu.com/question/288096930/answer/459907566)
+#First time posted by me in 2018 on [Zhihu](https://www.zhihu.com/question/288096930/answer/459907566)
