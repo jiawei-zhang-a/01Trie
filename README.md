@@ -19,6 +19,6 @@ convert any integer to 01 string and insert the 01 string into a trie dictionary
 1. A set that can insert X, get rank of X, find the Kth biggest number
 2. A [Confluent Persistent](https://en.wikipedia.org/wiki/Persistent_data_structure) 01 Trie for version control
 ![Confluent Persistent BST](https://mriet.files.wordpress.com/2012/02/clojure-trees.png)
-# First time posted by me in 2018 on [Zhihu](https://www.zhihu.com/question/288096930/answer/459907566)
+# First time posted by me on [Zhihu](https://www.zhihu.com/question/288096930/answer/459907566)
 
 
